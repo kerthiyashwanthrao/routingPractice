@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homeImg {
+  height: 200px;
+  width: 200px;
+}
+.text {
+  font-size: 40px;
+  color: #551e53;
+  font-weight: bold;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+/* Write your CSS code here */
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.aboutImg {
+  height: 200px;
+  width: 200px;
+}
+.text {
+  font-size: 40px;
+  color: #551e53;
+  font-weight: bold;
+}
+.para {
+  color: #555555;
+  font-size: 30px;
+}
